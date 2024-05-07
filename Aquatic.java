@@ -6,7 +6,7 @@ public class Aquatic extends Animal {
 
     public static void main(String[] args) {
         Aquatic fish = new Aquatic();
-        fish.name = "Catfish";
+        fish.name = "Tilapiafish";
         System.out.println("\n" + fish.name + " " + fish.move());
     }
 }
